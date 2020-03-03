@@ -1,4 +1,25 @@
 GIT COMMANDS
 
 1.git init
-Creates for you a hidden folder that holds all the files to be sent to github
+Creates for you a hidden folder that holds all the files to be sent to github.
+
+2. git add .
+Adds all the files in the .git folder. excludes all ignored files.
+
+3. git add *
+Add all the files in the .git folder including all ignored files.
+
+4.git add <filename>
+Adds that specific file in your .git folder
+
+5.git commit-m"Description"
+Adds a desription of the files you are commiting
+
+6.git remote add origin
+connects your.git folder to your git folder
+
+7.git push -u origin master
+Connects your .git folder to your github folder
+
+
+

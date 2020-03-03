@@ -1,0 +1,4 @@
+GIT COMMANDS
+
+1.git init
+Creates for you a hidden folder that holds all the files to be sent to github
